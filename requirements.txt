@@ -1,0 +1,4 @@
+gymnasium[classic-control]>=0.29
+torch>=2.0
+numpy>=1.24
+matplotlib>=3.7
